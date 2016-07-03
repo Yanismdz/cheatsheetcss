@@ -1,0 +1,85 @@
+html
+{
+    background:white;
+}
+/* ---------------BODY-------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+
+body
+{
+    max-width:940px;
+    margin:0 auto;
+    background-color:#eec584;
+}
+
+/* -------------HEADER-------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+
+header
+{
+    background-color:#C1C681;
+    height:100px;
+    margin:0;
+    border-bottom:4px #9ca249 solid;
+}
+
+h1
+{
+    text-align:center;
+    margin:0;
+    padding-top:30px;
+    height:100px;
+}
+
+/* -------------HEADER-------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+
+nav
+{
+    background-color:#cacaaa;
+    text-align:left;
+    display:inline-block;
+    width:200px;
+}
+
+.navbar
+{
+    padding:0;
+    margin:0;
+    list-style:none;
+    font-weight:bold;
+    font-family:arial sans-serif;
+}
+
+/* -------------HEADER-------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+
+.tab
+{
+    max-width:350px;
+    margin:auto;
+}
+
+.tab h3
+{
+    text-align:center;
+}
+
+td
+{
+    background-color:#55868C;
+    color:white;
+}
+
+.description
+{
+    background-color:#7F636E;
+}
