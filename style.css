@@ -2,6 +2,7 @@ html
 {
     background:white;
 }
+
 /* ---------------BODY-------------- */
 /* --------------------------------- */
 /* --------------------------------- */
@@ -64,13 +65,18 @@ nav
 
 .tab
 {
-    max-width:350px;
+    width:350px;
     margin:auto;
 }
 
 .tab h3
 {
     text-align:center;
+}
+
+td
+{
+    width:20%;
 }
 
 td
@@ -82,4 +88,5 @@ td
 .description
 {
     background-color:#7F636E;
+    width:78%;
 }
